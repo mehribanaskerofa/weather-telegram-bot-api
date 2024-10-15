@@ -1,0 +1,10 @@
+# Weather Telegram Bot
+
+
+1. Установит composer:
+
+- composer install
+
+2. Зарегистрироватся на сайте OpenWeatherMap и получат API ключ.
+3. Найдите в Telegram бот @BotFather. Создать бота и получит токен.
+4. Настроить вебхук - https://api.telegram.org/bot<your_telegram_token>/setWebhook?url=https://your-domain.com/index.php
